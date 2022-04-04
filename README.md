@@ -1,4 +1,4 @@
-# RFR---YouTube-Crawler
+# YouTube Scrapper
 Capturar listagem de vídeos de determinado canal no YT
 
 # TODO
